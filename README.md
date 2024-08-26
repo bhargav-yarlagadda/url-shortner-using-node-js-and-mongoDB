@@ -1,4 +1,4 @@
-#simple application back end  that mimics the functionality of tinyurl.com
+#simple node js application that mimics the functionality of tinyurl.com
 
 #usefull routes
 ## /url - use post method to post the url data into data base
